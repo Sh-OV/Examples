@@ -6,7 +6,7 @@
     return (result);
 }
 
-int a1 = 15;
+int a1 = 15123;
 int b1 = 21;
 int c1 = 39;
 int a2 = 12;
@@ -14,14 +14,17 @@ int b2 = 2311;
 int c2 = 33;
 int a3 = 13;
 int b3 = 23;
-int c3 = 313;
+int c3 = 313567;
 
+int max = Max(Max(a1,b1,c1), Max(a2,b2,c2), Max(a3,b3,c3));
+Console.WriteLine(max);
+/*
 int group1 = Max(a1,b1,c1);
 int group2 = Max(a2,b2,c2);
 int group3 = Max(a3,b3,c3);
 int finish = Max(group1, group2, group3);
 Console.WriteLine(finish);
-
+*/
 /*int max = a1;
 if (b1 > max) max = b1;
 if (c1 > max) max = c1;
