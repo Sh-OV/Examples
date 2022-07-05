@@ -20,28 +20,26 @@ string Replace (string txt, char oldSimbol, char newSimbol)
     }
     return result;
 }
-string newText1 = Replace(text, ' ', '|');
-Console.WriteLine(newText1);
-string newText2 = Replace(text, 'к', 'К');
-Console.WriteLine(newText2);
-string newText3 = Replace(text, 'с', 'С');
+ string newText1 = Replace(text, ' ', '|');
+string newText2 = Replace(newText1, 'к', 'К');
+string newText3 = Replace(newText2, 'с', 'С');
 Console.WriteLine(newText3);
 
-Console.WriteLine();
-string Replace2 (string txt, char oldSimbol1, char newSimbol1, 
-                             char oldSimbol2, char newSimbol2, 
-                             char oldSimbol3, char newSimbol3)
-{
-    string result = String.Empty;
-    int length = txt.Length;
-    for (int i = 0; i < length; i++)
-    {
-        if (txt[i] == oldSimbol1)  result = result + $"{newSimbol1}";
-        else if (txt[i] == oldSimbol2)  result = result + $"{newSimbol2}";
-        else if (txt[i] == oldSimbol3)  result = result + $"{newSimbol3}";
-        else result = result + $"{txt[i]}";
-    }
-    return result;
-}
-string newText4 = Replace2(text, ' ', '|', 'к', 'К', 'с', 'С');
-Console.WriteLine(newText4);
+// Console.WriteLine();
+// string Replace2 (string txt, char oldSimbol1, char newSimbol1, 
+//                              char oldSimbol2, char newSimbol2, 
+//                              char oldSimbol3, char newSimbol3)
+// {
+//     string result = String.Empty;
+//     int length = txt.Length;
+//     for (int i = 0; i < length; i++)
+//     {
+//         if (txt[i] == oldSimbol1)  result = result + $"{newSimbol1}";
+//         else if (txt[i] == oldSimbol2)  result = result + $"{newSimbol2}";
+//         else if (txt[i] == oldSimbol3)  result = result + $"{newSimbol3}";
+//         else result = result + $"{txt[i]}";
+//     }
+//     return result;
+// }
+// string newText4 = Replace2(text, ' ', '|', 'к', 'К', 'с', 'С');
+// Console.WriteLine(newText4);
