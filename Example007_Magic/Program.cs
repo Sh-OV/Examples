@@ -19,7 +19,7 @@ int x = xa;
 int y = yb;
 int count = 0;
 
-while (count < 1000)
+while (count < 10000)
 {
     int what = new Random().Next(0, 3); // [0;3)  0 - 2
     if(what == 0)
