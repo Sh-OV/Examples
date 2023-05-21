@@ -1,0 +1,15 @@
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Examples\Example005_Condition_if_else\bin\Debug\net6.0\Example005_Condition_if_else.exe
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Examples\Example005_Condition_if_else\bin\Debug\net6.0\Example005_Condition_if_else.deps.json
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Examples\Example005_Condition_if_else\bin\Debug\net6.0\Example005_Condition_if_else.runtimeconfig.json
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Examples\Example005_Condition_if_else\bin\Debug\net6.0\Example005_Condition_if_else.dll
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Examples\Example005_Condition_if_else\bin\Debug\net6.0\Example005_Condition_if_else.pdb
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Examples\Example005_Condition_if_else\obj\Debug\net6.0\Example005_Condition_if_else.csproj.AssemblyReference.cache
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Examples\Example005_Condition_if_else\obj\Debug\net6.0\Example005_Condition_if_else.GeneratedMSBuildEditorConfig.editorconfig
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Examples\Example005_Condition_if_else\obj\Debug\net6.0\Example005_Condition_if_else.AssemblyInfoInputs.cache
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Examples\Example005_Condition_if_else\obj\Debug\net6.0\Example005_Condition_if_else.AssemblyInfo.cs
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Examples\Example005_Condition_if_else\obj\Debug\net6.0\Example005_Condition_if_else.csproj.CoreCompileInputs.cache
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Examples\Example005_Condition_if_else\obj\Debug\net6.0\Example005_Condition_if_else.dll
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Examples\Example005_Condition_if_else\obj\Debug\net6.0\refint\Example005_Condition_if_else.dll
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Examples\Example005_Condition_if_else\obj\Debug\net6.0\Example005_Condition_if_else.pdb
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Examples\Example005_Condition_if_else\obj\Debug\net6.0\Example005_Condition_if_else.genruntimeconfig.cache
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Examples\Example005_Condition_if_else\obj\Debug\net6.0\ref\Example005_Condition_if_else.dll

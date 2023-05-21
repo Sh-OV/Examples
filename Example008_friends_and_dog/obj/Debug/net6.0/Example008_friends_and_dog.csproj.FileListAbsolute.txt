@@ -1,0 +1,15 @@
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Examples\Example008_friends_and_dog\obj\Debug\net6.0\Example008_friends_and_dog.csproj.AssemblyReference.cache
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Examples\Example008_friends_and_dog\obj\Debug\net6.0\Example008_friends_and_dog.GeneratedMSBuildEditorConfig.editorconfig
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Examples\Example008_friends_and_dog\obj\Debug\net6.0\Example008_friends_and_dog.AssemblyInfoInputs.cache
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Examples\Example008_friends_and_dog\obj\Debug\net6.0\Example008_friends_and_dog.AssemblyInfo.cs
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Examples\Example008_friends_and_dog\obj\Debug\net6.0\Example008_friends_and_dog.csproj.CoreCompileInputs.cache
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Examples\Example008_friends_and_dog\bin\Debug\net6.0\Example008_friends_and_dog.exe
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Examples\Example008_friends_and_dog\bin\Debug\net6.0\Example008_friends_and_dog.deps.json
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Examples\Example008_friends_and_dog\bin\Debug\net6.0\Example008_friends_and_dog.runtimeconfig.json
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Examples\Example008_friends_and_dog\bin\Debug\net6.0\Example008_friends_and_dog.dll
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Examples\Example008_friends_and_dog\bin\Debug\net6.0\Example008_friends_and_dog.pdb
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Examples\Example008_friends_and_dog\obj\Debug\net6.0\Example008_friends_and_dog.dll
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Examples\Example008_friends_and_dog\obj\Debug\net6.0\refint\Example008_friends_and_dog.dll
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Examples\Example008_friends_and_dog\obj\Debug\net6.0\Example008_friends_and_dog.pdb
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Examples\Example008_friends_and_dog\obj\Debug\net6.0\Example008_friends_and_dog.genruntimeconfig.cache
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Examples\Example008_friends_and_dog\obj\Debug\net6.0\ref\Example008_friends_and_dog.dll

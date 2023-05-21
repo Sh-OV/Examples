@@ -1,0 +1,15 @@
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Examples\Example006_Base\bin\Debug\net6.0\Example006_Base.exe
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Examples\Example006_Base\bin\Debug\net6.0\Example006_Base.deps.json
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Examples\Example006_Base\bin\Debug\net6.0\Example006_Base.runtimeconfig.json
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Examples\Example006_Base\bin\Debug\net6.0\Example006_Base.dll
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Examples\Example006_Base\bin\Debug\net6.0\Example006_Base.pdb
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Examples\Example006_Base\obj\Debug\net6.0\Example006_Base.csproj.AssemblyReference.cache
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Examples\Example006_Base\obj\Debug\net6.0\Example006_Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Examples\Example006_Base\obj\Debug\net6.0\Example006_Base.AssemblyInfoInputs.cache
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Examples\Example006_Base\obj\Debug\net6.0\Example006_Base.AssemblyInfo.cs
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Examples\Example006_Base\obj\Debug\net6.0\Example006_Base.csproj.CoreCompileInputs.cache
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Examples\Example006_Base\obj\Debug\net6.0\Example006_Base.dll
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Examples\Example006_Base\obj\Debug\net6.0\refint\Example006_Base.dll
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Examples\Example006_Base\obj\Debug\net6.0\Example006_Base.pdb
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Examples\Example006_Base\obj\Debug\net6.0\Example006_Base.genruntimeconfig.cache
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Examples\Example006_Base\obj\Debug\net6.0\ref\Example006_Base.dll

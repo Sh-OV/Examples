@@ -1,0 +1,15 @@
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Examples\Example008_IntroMethod\bin\Debug\net6.0\Example008_IntroMethod.exe
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Examples\Example008_IntroMethod\bin\Debug\net6.0\Example008_IntroMethod.deps.json
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Examples\Example008_IntroMethod\bin\Debug\net6.0\Example008_IntroMethod.runtimeconfig.json
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Examples\Example008_IntroMethod\bin\Debug\net6.0\Example008_IntroMethod.dll
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Examples\Example008_IntroMethod\bin\Debug\net6.0\Example008_IntroMethod.pdb
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Examples\Example008_IntroMethod\obj\Debug\net6.0\Example008_IntroMethod.csproj.AssemblyReference.cache
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Examples\Example008_IntroMethod\obj\Debug\net6.0\Example008_IntroMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Examples\Example008_IntroMethod\obj\Debug\net6.0\Example008_IntroMethod.AssemblyInfoInputs.cache
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Examples\Example008_IntroMethod\obj\Debug\net6.0\Example008_IntroMethod.AssemblyInfo.cs
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Examples\Example008_IntroMethod\obj\Debug\net6.0\Example008_IntroMethod.csproj.CoreCompileInputs.cache
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Examples\Example008_IntroMethod\obj\Debug\net6.0\Example008_IntroMethod.dll
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Examples\Example008_IntroMethod\obj\Debug\net6.0\refint\Example008_IntroMethod.dll
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Examples\Example008_IntroMethod\obj\Debug\net6.0\Example008_IntroMethod.pdb
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Examples\Example008_IntroMethod\obj\Debug\net6.0\Example008_IntroMethod.genruntimeconfig.cache
+C:\1. Щёголева О.В\GB\Знакомство с яз пр\Examples\Example008_IntroMethod\obj\Debug\net6.0\ref\Example008_IntroMethod.dll
