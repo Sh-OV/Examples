@@ -19,7 +19,11 @@ int x = xa;
 int y = yb;
 int count = 0;
 
+<<<<<<< HEAD
 while (count < 100000)
+=======
+while (count < 10000)
+>>>>>>> 910306942af54ba2600a3829d046935fdfca8ca1
 {
     int what = new Random().Next(0, 3); // [0;3)  0 - 2
     if(what == 0)
